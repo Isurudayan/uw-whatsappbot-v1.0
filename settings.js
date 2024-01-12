@@ -21,21 +21,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761192103'] //ur owner number
-global.ownernomer = "94761192103" //ur owner number2
-global.ownername = "📌 𝚄𝙳𝙰𝚅𝙸𝙽 " //ur owner name
+global.owner = ['94728074430'] //ur owner number
+global.ownernomer = "94728074430" //ur owner number2
+global.ownername = "📌 king " //ur owner name
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "Insta: UDavin Wijesundara" //ur github or insta name
 global.location = "Srilanka" //ur location
 
 //new
-global.botname = "𝘜𝘞 𝘛𝘌𝘊𝘏 𝘚𝘏𝘖𝘞 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0"
-global.ownernumber = '94761192103'
-global.ownername = '📌 𝚄𝙳𝙰𝚅𝙸𝙽'
+global.botname = "KING SUDDA 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0"
+global.ownernumber = '94728074430'
+global.ownername = '📌 king'
 global.ownerNumber = ["94761192103@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@uwtechshow"
 global.websitex = "https://www.youtube.com/@uwtechshow"
-global.wagc = "https://chat.whatsapp.com/Jx2dvOAzNaO3vm5bwVglyC"
+global.wagc = "https://chat.whatsapp.com/KqhBE2zk3NAK6QZDakw5eN"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0' //script link
